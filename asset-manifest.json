@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.7e2fd5f7.chunk.css",
-    "main.js": "./static/js/main.22d8626e.chunk.js",
-    "main.js.map": "./static/js/main.22d8626e.chunk.js.map",
+    "main.css": "./static/css/main.e8f6e9da.chunk.css",
+    "main.js": "./static/js/main.382fb9ad.chunk.js",
+    "main.js.map": "./static/js/main.382fb9ad.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8add3247.js",
     "runtime-main.js.map": "./static/js/runtime-main.8add3247.js.map",
-    "static/js/2.02bde618.chunk.js": "./static/js/2.02bde618.chunk.js",
-    "static/js/2.02bde618.chunk.js.map": "./static/js/2.02bde618.chunk.js.map",
+    "static/js/2.345326d0.chunk.js": "./static/js/2.345326d0.chunk.js",
+    "static/js/2.345326d0.chunk.js.map": "./static/js/2.345326d0.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.e85f93501868411762f507388e5677f4.js": "./precache-manifest.e85f93501868411762f507388e5677f4.js",
+    "precache-manifest.161133c632cb617e941ad6d6c2cf6866.js": "./precache-manifest.161133c632cb617e941ad6d6c2cf6866.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.7e2fd5f7.chunk.css.map": "./static/css/main.7e2fd5f7.chunk.css.map",
-    "static/js/2.02bde618.chunk.js.LICENSE.txt": "./static/js/2.02bde618.chunk.js.LICENSE.txt",
-    "static/media/README.md": "./static/media/README.91bb2b36.md",
+    "static/css/main.e8f6e9da.chunk.css.map": "./static/css/main.e8f6e9da.chunk.css.map",
+    "static/js/2.345326d0.chunk.js.LICENSE.txt": "./static/js/2.345326d0.chunk.js.LICENSE.txt",
     "static/media/btn-ability-spearofadun-chronosurge-cyberneticscore.png": "./static/media/btn-ability-spearofadun-chronosurge-cyberneticscore.fcf2b694.png",
     "static/media/btn-ability-spearofadun-chronosurge-darkshrine.png": "./static/media/btn-ability-spearofadun-chronosurge-darkshrine.33a9e7c7.png",
     "static/media/btn-ability-spearofadun-chronosurge-fleetbeacon.png": "./static/media/btn-ability-spearofadun-chronosurge-fleetbeacon.b52015ba.png",
@@ -63,13 +62,12 @@
     "static/media/btn-upgrade-zerg-pathogenglands.png": "./static/media/btn-upgrade-zerg-pathogenglands.10071715.png",
     "static/media/btn-upgrade-zerg-pneumatizedcarapace.png": "./static/media/btn-upgrade-zerg-pneumatizedcarapace.95fe34cc.png",
     "static/media/copy_contents.svg": "./static/media/copy_contents.2f81c147.svg",
-    "static/media/copy_icons.py": "./static/media/copy_icons.69aa9fe7.py",
     "static/media/paste_contents.svg": "./static/media/paste_contents.fd960d10.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8add3247.js",
-    "static/js/2.02bde618.chunk.js",
-    "static/css/main.7e2fd5f7.chunk.css",
-    "static/js/main.22d8626e.chunk.js"
+    "static/js/2.345326d0.chunk.js",
+    "static/css/main.e8f6e9da.chunk.css",
+    "static/js/main.382fb9ad.chunk.js"
   ]
 }
